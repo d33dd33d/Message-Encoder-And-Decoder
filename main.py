@@ -1,8 +1,8 @@
-print("Welcome Tp Message Encoder")
+print("Welcome T0 Message Encoder")
 print()
 
 # Taking input from user
-data = input("Enter The Message")
+data = input("Enter The Message : ")
 
 
 # conversion Chart
@@ -41,4 +41,4 @@ for i in range(0, len(data)):
 print()
 print("Encoded Message : ",converted_data)
 print()
-mess = input("Type A Feedback")
+mess = input("Type A Feedback : ")
