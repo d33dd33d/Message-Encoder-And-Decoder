@@ -1,3 +1,6 @@
+print("Welcome Tp Message Encoder")
+print()
+
 # Taking input from user
 data = input("Enter The Message")
 
@@ -35,4 +38,7 @@ for i in range(0, len(data)):
 		converted_data += data[i]
 
 # Printing converted output
-print(converted_data)
+print()
+print("Encoded Message : ",converted_data)
+print()
+mess = input("Type A Feedback")
