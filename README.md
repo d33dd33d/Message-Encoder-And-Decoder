@@ -30,4 +30,8 @@ This Is The Code Symbols :
 
 ### Code Customisation
 
-Change The One After : FOr Each Letter TO Replace !
+Change The One After : For Each Letter To Replace !
+
+For A It's `01`, To Make It `09` The Code Must Be :
+
+``` 'A': '09'``` Instead Of ``'A': '01'``, Like Wise Change For Every Letter And Number
