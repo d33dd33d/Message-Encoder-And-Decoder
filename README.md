@@ -35,3 +35,6 @@ Change The One After : For Each Letter To Replace !
 For A It's `01`, To Make It `09` The Code Must Be :
 
 ``` 'A': '09'``` Instead Of ``'A': '01'``, Like Wise Change For Every Letter And Number
+
+
+### **PS : I Will Make A Decoder Soon**
